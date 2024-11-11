@@ -1,5 +1,5 @@
 
-# Machine Learning Homework 3
+# HW3
 
 This repository contains three tasks related to Support Vector Machines (SVM), Logistic Regression, and visualization techniques.
 
