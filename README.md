@@ -44,6 +44,9 @@ plt.legend()
 plt.title("1D Comparison: Logistic Regression vs. SVM")
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/46f0d8be-3fed-489b-a275-74ea53e4ceff)
+
+
 
 ---
 
@@ -90,6 +93,9 @@ plt.legend()
 
 st.pyplot(fig)
 ```
+![image](https://github.com/user-attachments/assets/9717898a-1d9a-412a-bcb6-20fa96d46ab4)
+
+
 
 ---
 
@@ -143,6 +149,8 @@ To run the Streamlit application for HW3-2, use the following command:
 ```bash
 streamlit run streamlit_app.py
 ```
+![image](https://github.com/user-attachments/assets/325e9076-2d45-4558-aeb3-be7660b6c84d)
+
 
 For HW3-1 and HW3-3, simply execute the scripts directly in a Python environment that supports plotting.
 
