@@ -1,7 +1,8 @@
 
-# README for HW3: Machine Learning Comparisons and Visualizations
+# HW3: Machine Learning Comparisons and Visualizations
+This repository contains three tasks related to Support Vector Machines (SVM), Logistic Regression, and visualization techniques.
 
-## HW3-1: Comparing Logistic Regression and SVM on 1D Data
+## HW3-1: 1D Comparison of Logistic Regression with SVM
 
 ### Question:
 How can we visualize and compare the performance of Logistic Regression and Support Vector Machines (SVM) on one-dimensional data?
@@ -49,7 +50,10 @@ plt.show()
 
 ---
 
-## HW3-2: Visualizing SVM with Circular Data Distribution in 3D
+![image](https://github.com/user-attachments/assets/035877e6-4910-4db1-8e6a-25c5c437fc37)
+
+
+## HW3-2: 2D SVM with Streamlit Deployment (3D Plot - Circular Data Distribution)
 
 ### Question:
 How can we visualize a 2D circular dataset in 3D and analyze SVM's performance with an RBF kernel?
@@ -93,7 +97,10 @@ st.pyplot(fig)
 
 ---
 
-## HW3-3: Comparing SVM and Logistic Regression on Non-Circular 2D Data
+![image](https://github.com/user-attachments/assets/57fe2c2a-d1cf-4089-b6ca-380ab955ce88)
+
+
+## HW3-3: 2D Dataset with Non-Circular Distribution on Feature Plane
 
 ### Question:
 How can we compare the decision boundaries of SVM and Logistic Regression on non-circular 2D datasets?
@@ -144,10 +151,10 @@ plt.show()
 
 ---
 
+![image](https://github.com/user-attachments/assets/133dd19d-aa5a-4478-920a-821f8c586eb8)
+
+
 ## Notes
 - The first task visualizes differences between Logistic Regression and SVM on simple 1D data.
 - The second task demonstrates a 3D visualization of 2D circular data classified by an SVM.
 - The third task compares decision boundaries on complex 2D datasets.
-
-## Contact
-For questions or feedback, feel free to reach out to the project maintainer.
