@@ -1,8 +1,4 @@
-
-# HW3: Machine Learning Comparisons and Visualizations
-This repository contains three tasks related to Support Vector Machines (SVM), Logistic Regression, and visualization techniques.
-
-## HW3-3: 2D Dataset with Non-Circular Distribution on Feature Plane
+## 3-3: 2D Dataset with Non-Circular Distribution on Feature Plane
 
 ### Question:
 How can we compare the decision boundaries of SVM and Logistic Regression on non-circular 2D datasets?
