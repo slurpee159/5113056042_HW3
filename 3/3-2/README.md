@@ -1,8 +1,4 @@
-
-# HW3: Machine Learning Comparisons and Visualizations
-This repository contains three tasks related to Support Vector Machines (SVM), Logistic Regression, and visualization techniques.
-
-## HW3-2: 2D SVM with Streamlit Deployment (3D Plot - Circular Data Distribution)
+## 3-2: 2D SVM with Streamlit Deployment (3D Plot - Circular Data Distribution)
 
 ### Question:
 How can we visualize a 2D circular dataset in 3D and analyze SVM's performance with an RBF kernel?
