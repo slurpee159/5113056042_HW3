@@ -1,8 +1,4 @@
-
-# HW3: Machine Learning Comparisons and Visualizations
-This repository contains three tasks related to Support Vector Machines (SVM), Logistic Regression, and visualization techniques.
-
-## HW3-1: 1D Comparison of Logistic Regression with SVM
+## 3-1: 1D Comparison of Logistic Regression with SVM
 
 ### Question:
 How can we visualize and compare the performance of Logistic Regression and Support Vector Machines (SVM) on one-dimensional data?
